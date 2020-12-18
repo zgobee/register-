@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647280355259",
+    "project_id": "biskviti",
+    "storage_bucket": "biskviti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647280355259:android:c58eada0b93bdc50bb469e",
+        "android_client_info": {
+          "package_name": "com.example.biskviti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647280355259-s7ep5m9lrhsi1je64t9el8qbkrp25k39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnscyBoOabSVED2Esh8Dyd8ClnxbTC80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647280355259-s7ep5m9lrhsi1je64t9el8qbkrp25k39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
